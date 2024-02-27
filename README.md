@@ -10,6 +10,9 @@ I'm an undergraduate Computer Science major at NUS (National University of Singa
 
 <img class = "Django" src="https://user-images.githubusercontent.com/97420952/225239161-474536c8-c459-4d43-b51a-667a351758a9.svg" width="100"> <img class = "Bootstrap" src="https://user-images.githubusercontent.com/97420952/230309926-a71c1215-e703-4121-9506-99e791f11c77.svg" width="100">
 
+## Libraries
+<img class = "React" src="https://github.com/nitant-p/nitant-p/assets/97420952/bc284c7b-7f4e-4c7b-b762-b681313ecd93" width="100">
+
 <!--
 **nitant-p/nitant-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
