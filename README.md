@@ -1,6 +1,6 @@
 ## Hey, I'm Nitant :v:
 
-I'm an undergraduate Computer Science major at NUS (National University of Singapore).
+I'm an NUS Computer Science fresh grad, and now I'm working at PSA Singapore!
 
 ## Languages
 
