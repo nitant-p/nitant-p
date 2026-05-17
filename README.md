@@ -4,14 +4,29 @@ I'm an NUS Computer Science fresh grad, and now I'm working at PSA Singapore!
 
 ## Languages
 
-<img class="Java" src="https://user-images.githubusercontent.com/97420952/212089762-a05bdaa0-5897-4dbd-adea-bff4c265a315.svg" width="100"> <img class ="JS" src="https://user-images.githubusercontent.com/97420952/212089842-083ef6b5-53c8-45c2-a501-7869d7bef47c.svg" width="100"> <img class = "Python" src="https://user-images.githubusercontent.com/97420952/212091691-21f73f1f-ac7a-4141-950d-c77a6fc509e6.svg" width="100"> <img class = "PostgreSQL" src="https://user-images.githubusercontent.com/97420952/225239425-c8cafa48-1d71-4aa9-8c3c-8b780a0fbe76.svg" width="100">  <img class = "HTML" src="https://user-images.githubusercontent.com/97420952/212092361-45acf81e-ecca-488b-b770-aabc58224f53.svg" width="100"> <img class = "CSS" src="https://user-images.githubusercontent.com/97420952/212091925-cdac088d-a028-43cc-9692-08459f0bab43.svg" width="100">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
 ## Frameworks
 
-<img class = "Django" src="https://user-images.githubusercontent.com/97420952/225239161-474536c8-c459-4d43-b51a-667a351758a9.svg" width="100"> <img class = "Bootstrap" src="https://user-images.githubusercontent.com/97420952/230309926-a71c1215-e703-4121-9506-99e791f11c77.svg" width="100">
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat-square&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 ## Libraries
-<img class = "React" src="https://github.com/nitant-p/nitant-p/assets/97420952/bc284c7b-7f4e-4c7b-b762-b681313ecd93" width="100">
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
 <!--
 **nitant-p/nitant-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
