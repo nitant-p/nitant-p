@@ -26,7 +26,6 @@ I'm an NUS Computer Science fresh grad, and now I'm working at PSA Singapore!
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
 <!--
 **nitant-p/nitant-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
